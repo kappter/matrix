@@ -1,6 +1,6 @@
 ## MATRIX TERMINAL EFFECT?
 
-Just a fun little script to display a matrix effect on your terminal.
+Just a fun little script to display a Matrix effect on your terminal.
 
 STEP1: Start by running the script --> ```python matrix.py```
 
